@@ -7,7 +7,7 @@ feature_row:
     alt: "Alternative text for image"
     title: "JSON Editor"
     excerpt: "summary of project."
-    url: "/portfolio/project-filename/"
+    url: "/portfolio/JSON-Editor/"
     btn_label: "View"
     btn_class: "btn--primary"
 ---
@@ -15,7 +15,7 @@ feature_row:
 
 # Connor Touchet's Portfolio
 
-Page content
+Projects
 
 
 {% include feature_row %}
