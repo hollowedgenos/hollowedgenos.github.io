@@ -2,10 +2,10 @@
 # ⚙️ Site Settings
 # -----------------------------------------------------------------------------
 
-title: Site Title
-email: Your email
+title: Connor Touchet's Portfolio
+email: ctouc@protonmail.com
 description: >-
-  short description of the site
+  Welcome! You have found the portfolio of an aspiring game developer. Feel free to peruse my works!
 
 # Branding & Social
 twitter_username: 
@@ -34,7 +34,7 @@ plugins:
 # -----------------------------------------------------------------------------
 
 minimal_mistakes_skin: "default"
-site_author: "Your Name"
+site_author: "Connor Touchet"
 paginate: 5
 words_per_minute: 200
 
@@ -102,7 +102,7 @@ collections:
 # -----------------------------------------------------------------------------
 
 author:
-  name   : "Your Name"
+  name   : "Connor Touchet"
   avatar : "/assets/images/blank-profile-picture"
   bio    : "short bio line"
   links:
