@@ -33,7 +33,7 @@ plugins:
 # 🎨 Theme Settings
 # -----------------------------------------------------------------------------
 
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 site_author: "Connor Touchet"
 paginate: 5
 words_per_minute: 200
@@ -115,9 +115,6 @@ author:
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://hollowedgenos.itch.io/"
-    - label: "ArtStation"
-      icon: "fab fa-fw fa-artstation"
-      url: "https://www.artstation.com/"
 
 # -----------------------------------------------------------------------------
 # 🚫 Exclusions
