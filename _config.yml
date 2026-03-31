@@ -103,8 +103,8 @@ collections:
 
 author:
   name   : "Connor Touchet"
-  avatar : "/assets/images/blank-profile-picture"
-  bio    : "An aspiring game developer who is pursuing a career in game systems programming."
+  avatar : "/assets/images/blank-profile-picture.png"
+  bio    : "An aspiring game developer who is pursuing a career in games systems programming."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
