@@ -3,10 +3,10 @@ layout: splash
 permalink: /
 
 feature_row:
-  - image_path: /assets/images/feature-img.png
-    alt: "Alternative text for image"
+  - image_path: /assets/images/JSON-Editor.png
+    alt: "Screenshot of the JSON Editor"
     title: "JSON Editor"
-    excerpt: "summary of project."
+    excerpt: "A JSON Editor made for game development in Unity."
     url: "/portfolio/JSON-Editor/"
     btn_label: "View"
     btn_class: "btn--primary"
@@ -14,8 +14,6 @@ feature_row:
 
 
 # Connor Touchet's Portfolio
-
-Projects
 
 
 {% include feature_row %}
