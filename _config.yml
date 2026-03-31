@@ -9,14 +9,14 @@ description: >-
 
 # Branding & Social
 twitter_username: 
-github_username:  
+github_username:  hollowedgenos
 
 # -----------------------------------------------------------------------------
 # 🛠️ Build Settings
 # -----------------------------------------------------------------------------
 
 baseurl: "" 
-url: "https://yourusername.github.io"
+url: "https://hollowedgenos.github.io"
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
