@@ -5,7 +5,7 @@ permalink: /
 feature_row:
   - image_path: /assets/images/feature-img.png
     alt: "Alternative text for image"
-    title: "Project title"
+    title: "JSON Editor"
     excerpt: "summary of project."
     url: "/portfolio/project-filename/"
     btn_label: "View"
