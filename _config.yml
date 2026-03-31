@@ -39,7 +39,7 @@ words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: ""
+masthead_title: "Projects"
 
 # Defaults for Posts and Pages
 defaults:
