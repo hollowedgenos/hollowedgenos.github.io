@@ -40,7 +40,7 @@ words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: "Connor Touchet's Portfolio"
+masthead_title: ""
 
 # Defaults for Posts and Pages
 defaults:
