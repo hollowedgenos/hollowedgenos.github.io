@@ -40,7 +40,7 @@ words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: "Site Title"
+masthead_title: "Test"
 
 # Defaults for Posts and Pages
 defaults:
