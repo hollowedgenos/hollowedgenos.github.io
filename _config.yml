@@ -104,7 +104,7 @@ collections:
 author:
   name   : "Connor Touchet"
   avatar : "/assets/images/blank-profile-picture"
-  bio    : ""
+  bio    : "An aspiring game developer who is pursuing a career in geme systems programming."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
