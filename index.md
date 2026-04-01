@@ -22,7 +22,7 @@ feature_row:
   - image_path: 
     alt: ""
     title: "Character Abilities"
-    excerpt: "Character Abilities "
+    excerpt: "Four core character abilities made for a selectable player character in Unity."
     url: "/portfolio/Character-Abilities/"
     btn_label: "View"
     btn_class: "btn--primary"
