@@ -25,5 +25,5 @@ Inventory system keeps track of different and multiple of the same items.
 ---
 
 ### Resources
-- [Multiplayer Inventory Github (Un-private This)](https://github.com/hollowedgenos/Multiplayer-Inventory-System)
+- [Multiplayer Inventory Github](https://github.com/hollowedgenos/Multiplayer-Inventory-System)
 - [Soulsync Project](https://rjp5546.itch.io/soulsync)

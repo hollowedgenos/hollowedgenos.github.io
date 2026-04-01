@@ -18,6 +18,14 @@ feature_row:
     url: "/portfolio/Inventory-System/"
     btn_label: "View"
     btn_class: "btn--primary"
+
+  - image_path: 
+    alt: ""
+    title: "Character Abilities"
+    excerpt: "Character Abilities "
+    url: "/portfolio/Character-Abilities/"
+    btn_label: "View"
+    btn_class: "btn--primary"
   
 ---
 

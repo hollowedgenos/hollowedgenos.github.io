@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Page Title"
+title: "Developer Statement"
 permalink: /about/
 author_profile: true
 ---

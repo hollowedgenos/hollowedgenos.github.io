@@ -7,5 +7,3 @@ collection: portfolio
 entries_layout: grid
 author_profile: true
 ---
-
-Page content goes here ...
