@@ -7,20 +7,20 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "A server authoritative inventory system made in Unity. "
+project_brief: "A server authoritative inventory system made in Unity. This system was made specifically for the Senior Production I & II project <i>Soulsync</i>, made at the University of Tulsa."
 project_role: "Your role on the project"
 project_tools: "Photon Fusion 2"
 project_date: "2026"
 ---
-## Heading 
-Written deliverables go here
+## Specifics
+Enables synchronized item management across networked players and enhancing cooperative gameplay dynamics.
 
 ## External Assets & Libraries
-- List out external assets and licences 
+- [Photon Fusion 2](https://assetstore.unity.com/packages/tools/network/photon-fusion-267958) \| [Photon Fusion License](https://dashboard.photonengine.com/account/licenseterms)
+
 ---
 
 ### Resources
-- List links to resources on the project, for example
 - Link to Github repo for project
 - Link to piece on ArtStation
 - Link to Itch.io game project was used for

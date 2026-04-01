@@ -12,8 +12,8 @@ project_role: "I was responsible for the initial JSON database structures as wel
 project_tools: "NuGetForUnity, System.Text.Json 10.0.3"
 project_date: "2025"
 ---
-## What does it do?
-The editor allows for ease of access to JSON files and their corresponding scriptable objects via an easy-to-use UI interface. Changes made in the editor can be make to a JSON file, scriptable object, or both at the push of a button!
+## Specifics
+The editor allows for ease of access to JSON files and their corresponding scriptable objects via an easy-to-use UI interface. Changes made in the editor can be make to a JSON file, scriptable object, or both at the push of a button.
 
 ## External Assets & Libraries
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-ov-file) \| MIT License
