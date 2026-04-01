@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 
 project_brief: "A server authoritative inventory system made in Unity. This system was made specifically for the Senior Production I & II project <i>Soulsync</i>, made at the University of Tulsa."
-project_role: "Your role on the project"
+project_role: "Responsible for the design and implementation of the inventory system on a local and networked level."
 project_tools: "Photon Fusion 2"
 project_date: "2026"
 ---
@@ -21,6 +21,5 @@ Enables synchronized item management across networked players and enhancing coop
 ---
 
 ### Resources
-- Link to Github repo for project
-- Link to piece on ArtStation
-- Link to Itch.io game project was used for
+- [Multiplayer Inventory Github]()
+- [Soulsync Project](https://rjp5546.itch.io/soulsync)
