@@ -1,16 +1,16 @@
 ---
-title: "Title of Project"
-excerpt: "Short summary of project"
+title: "Multiplayer Inventory System"
+excerpt: "A server authoritative inventory system made in Unity."
 
 header:
   overlay_image: 
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Short sidebar summary of project requirements/needs."
+project_brief: "A server authoritative inventory system made in Unity. "
 project_role: "Your role on the project"
-project_tools: "list tools, separate with commas"
-project_date: "Date the project was completed"
+project_tools: "Photon Fusion 2"
+project_date: "2026"
 ---
 ## Heading 
 Written deliverables go here

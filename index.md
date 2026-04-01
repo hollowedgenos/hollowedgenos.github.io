@@ -10,6 +10,15 @@ feature_row:
     url: "/portfolio/JSON-Editor/"
     btn_label: "View"
     btn_class: "btn--primary"
+
+  - image_path: 
+    alt: ""
+    title: "Multiplayer Inventory System"
+    excerpt: "Multiplayer Inventory System in Unity Engine."
+    url: "/portfolio/Inventory-System/"
+    btn_label: "View"
+    btn_class: "btn--primary"
+  
 ---
 
 
