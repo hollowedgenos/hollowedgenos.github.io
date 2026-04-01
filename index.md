@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/Inventory-System.png
     alt: "Code snippet of the Inventory System"
     title: "Multiplayer Inventory System"
-    excerpt: "Multiplayer Inventory System in Unity Engine."
+    excerpt: "Multiplayer Inventory System made in Unity."
     url: "/portfolio/Inventory-System/"
     btn_label: "View"
     btn_class: "btn--primary"
