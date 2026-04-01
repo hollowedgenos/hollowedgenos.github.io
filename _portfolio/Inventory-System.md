@@ -15,6 +15,10 @@ project_date: "2026"
 ## Specifics
 Enables synchronized item management across networked players and enhancing cooperative gameplay dynamics.
 
+The inventory system applies stat changes to the player upon item pickup. 
+
+Inventory system keeps track of different and multiple of the same items.
+
 ## External Assets & Libraries
 - [Photon Fusion 2](https://assetstore.unity.com/packages/tools/network/photon-fusion-267958) \| [Photon Fusion License](https://dashboard.photonengine.com/account/licenseterms)
 
