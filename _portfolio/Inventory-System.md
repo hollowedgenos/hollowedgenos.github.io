@@ -4,7 +4,7 @@ excerpt: "A server authoritative inventory system made in Unity."
 
 header:
   overlay_image: 
-  teaser: 
+  teaser: /assets/images/Inventory-System.png
   overlay_filter: 0.5
 
 project_brief: "A server authoritative inventory system made in Unity. This system was made specifically for the Senior Production I & II project <i>Soulsync</i>, made at the University of Tulsa."

@@ -1,6 +1,6 @@
 ---
 title: "Multiplayer Character Abilities"
-excerpt: "Core character abilities for a Multiplayer Unity game project."
+excerpt: "Four core character abilities for a Multiplayer Unity game project."
 
 header:
   overlay_image: 
