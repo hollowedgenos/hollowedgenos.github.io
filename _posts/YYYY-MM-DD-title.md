@@ -1,7 +1,7 @@
 ---
 title: "Title of Post"
 excerpt: "Short summary of  post"
-date: 
+date: 11/09/2001 # DD/MM/YYYY
 layout: single
 author_profile: true
 read_time: true
@@ -10,8 +10,8 @@ categories:
   - category 1
   - category 2
 tags:
-  - tag 1
-  - tag 2
+ - tag 1
+ - tag 2
 header:
   overlay_image: 
   overlay_filter: 0.5

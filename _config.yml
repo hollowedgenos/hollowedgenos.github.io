@@ -14,7 +14,7 @@ github_username:  hollowedgenos
 # 🛠️ Build Settings
 # -----------------------------------------------------------------------------
 
-baseurl: "" 
+baseurl: "/hollowedgenos-github" 
 url: "https://hollowedgenos.github.io"
 
 markdown: kramdown
