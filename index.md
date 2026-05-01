@@ -26,7 +26,14 @@ feature_row:
     url: "/portfolio/Character-Abilities/"
     btn_label: "View"
     btn_class: "btn--primary"
-  
+
+  - image_path: 
+    alt: ""
+    title: "Loamlings Crafting System"
+    excerpt: "A resource-based crafting system made for the Loamlings group project in Unity."
+    url: "/portfolio/Loamlings-CraftingSystem/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 
