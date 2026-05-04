@@ -72,7 +72,7 @@ feature_row:
 ---
 
 
-# Connor Touchet's Portfolio
+# Portfolio
 
 
 {% include feature_row %}
