@@ -4,13 +4,20 @@ excerpt: "Four core character abilities for a Multiplayer Unity game project."
 
 header:
   overlay_image: 
-  teaser: 
+  teaser: /assets/images/portfolio-images/HammerRide-Ability.png
   overlay_filter: 0.5
 
 project_brief: "The four core character abilities for the player character: ASTR-1D. This was developed specifically for the Senior Production I & II project <i>Soulsync</i>, made at the University of Tulsa."
 project_role: "Responsible for the implementation of the four character abilities, improved player engagement and combat interactions."
 project_tools: "Photon Fusion 2"
 project_date: "2025"
+
+gallery:
+  - url: /assets/images/portfolio-items/gallery/character-abilities/HammerRide.png
+    image_path: /assets/images/portfolio-items/gallery/character-abilities/HammerRide.png
+    alt: "Code for ASTR-1D's Hammer Ride ability."
+    title: "Hammer Ride Ability"
+
 ---
 ## Specifics
 One of the player characters, ASTR-1D, came with four abilities:

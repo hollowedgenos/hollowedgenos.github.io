@@ -4,7 +4,7 @@ excerpt: "Scenes created in Unity which comprise the entirety of Level 1 for the
 
 header:
   overlay_image: 
-  teaser: /assets/images/
+  teaser: /assets/images/portfolio-images/WellWellWells-Level1-collage.jpg
   overlay_filter: 0.5
 
 project_brief: ""

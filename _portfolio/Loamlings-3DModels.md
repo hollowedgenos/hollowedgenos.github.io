@@ -4,7 +4,7 @@ excerpt: "A collection of the 3D models created in Blender for Loamlings."
 
 header:
   overlay_image: 
-  teaser: /assets/images/
+  teaser: /assets/images/portfolio-images/3DModels-Loamlings-collage.jpg
   overlay_filter: 0.5
 
 project_brief: ""

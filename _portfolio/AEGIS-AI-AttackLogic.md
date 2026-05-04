@@ -4,7 +4,7 @@ excerpt: "The AI attack logic designed for the melee and ranged enemies in AEGIS
 
 header:
   overlay_image: 
-  teaser: /assets/images/
+  teaser: /assets/images/portfolio-images/AEGIS-COMP-HitAttack.png
   overlay_filter: 0.5
 
 project_brief: ""

@@ -4,7 +4,7 @@ excerpt: "A resource-based crafting system I implemented for the group project, 
 
 header:
   overlay_image: 
-  teaser: /assets/images/
+  teaser: /assets/images/portfolio-images/Inventory-System.png
   overlay_filter: 0.5
 
 project_brief: ""

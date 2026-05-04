@@ -4,7 +4,7 @@ excerpt: "A 3D Animation made in Blender depicitng a short story using various o
 
 header:
   overlay_image: 
-  teaser: /assets/images/
+  teaser: /assets/images/portfolio-images/3DVideo-Project-Screenshot.png
   overlay_filter: 0.5
 
 project_brief: ""
