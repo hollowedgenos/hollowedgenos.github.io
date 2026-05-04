@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 
 feature_row:
-  - image_path: /assets/images/JSON-Editor.png
+  - image_path: /assets/images/index-previews/JSON-Editor.png
     alt: "Screenshot of the JSON Editor"
     title: "JSON Editor"
     excerpt: "A JSON Editor made for game development in Unity."
@@ -11,7 +11,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/Inventory-System.png
+  - image_path: /assets/images/index-previews/Inventory-System.png
     alt: "Code snippet of the Inventory System"
     title: "Multiplayer Inventory System"
     excerpt: "Multiplayer Inventory System made in Unity."
@@ -35,7 +35,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/3DModels_Loamlings.jpg
+  - image_path: /assets/images/index-previews/3DModels_Loamlings.jpg
     alt: "Collage of all 3D Models I created for Loamlings."
     title: "Loamlings 3D Models"
     excerpt: "3D models created in Blender for the Loamlings group project."
