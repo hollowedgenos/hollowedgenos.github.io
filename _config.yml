@@ -114,6 +114,9 @@ author:
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://hollowedgenos.itch.io/"
+    - label: "ArtStation"
+      icon: "fab fa-fw fa-artstation"
+      url: "https://www.artstation.com/hollowedgenos"
 
 # -----------------------------------------------------------------------------
 # 🚫 Exclusions

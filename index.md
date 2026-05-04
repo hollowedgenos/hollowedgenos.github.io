@@ -34,6 +34,41 @@ feature_row:
     url: "/portfolio/Loamlings-CraftingSystem/"
     btn_label: "View"
     btn_class: "btn--primary"
+
+  - image_path: 
+    alt: ""
+    title: "Loamlings 3D Models"
+    excerpt: "3D models I created for the Loamlings group project in Unity."
+    url: "/portfolio//"
+    btn_label: "View"
+    btn_class: "btn--primary"
+
+  - image_path: 
+    alt: ""
+    title: "AEGIS AI Attack Logic"
+    excerpt: "The AI attack logic designed and implemented for AEGIS, a submission for the Unlikely Collaborators 2026 game jam. "
+    url: "/portfolio//"
+    btn_label: "View"
+    btn_class: "btn--primary"
+
+  - image_path: 
+    alt: ""
+    title: "Well Well Wells: Level 1"
+    excerpt: "A series of scenes I designed and created in the Unity Engine comprising Level 1 for the group project, Well Well Wells."
+    url: "/portfolio//"
+    btn_label: "View"
+    btn_class: "btn--primary"
+
+  - image_path: 
+    alt: ""
+    title: "3D Blender Animation"
+    excerpt: "A 3D animated video I created to demonstrate my skills in Blender."
+    url: "/portfolio//"
+    btn_label: "View"
+    btn_class: "btn--primary"
+
+
+
 ---
 
 
