@@ -35,11 +35,11 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: 
-    alt: ""
+  - image_path: /assets/images/3DModels_Loamlings.jpg
+    alt: "Collage of all 3D Models I created for Loamlings."
     title: "Loamlings 3D Models"
-    excerpt: "3D models I created for the Loamlings group project in Unity."
-    url: "/portfolio//"
+    excerpt: "3D models created in Blender for the Loamlings group project."
+    url: "/portfolio/Loamlings-3DModels/"
     btn_label: "View"
     btn_class: "btn--primary"
 
