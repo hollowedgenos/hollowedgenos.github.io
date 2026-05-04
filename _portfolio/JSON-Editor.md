@@ -4,7 +4,7 @@ excerpt: "A Unity Editor tool made to access JSON files. "
 
 header:
   overlay_image: 
-  teaser: /assets/images/JSON-Editor.png
+  teaser: /assets/images/index-previews/JSON-Editor.png
   overlay_filter: 0.5
 
 project_brief: "A Unity Editor tool made to access JSON files and their corresponding scriptable objects. The tool was made specifically for development of the Senior Production I & II project <i>Soulsync</i>, made at the University of Tulsa."
