@@ -16,7 +16,7 @@ tags:
  - Pizza Tower
  - Platformer
 header:
-  overlay_image: /assets/images/pizzatower-titlescreen.jpg
+  overlay_image: /assets/images/blog/pizzatower-titlescreen.jpg
   overlay_filter: 0.5
   caption: "Pizza Tower Logo"
 ---
@@ -38,7 +38,7 @@ Pizza Tower is a fast-paced 2D platformer that-after many years of development-r
 
 For the more inquisitive of readers who wonder, “What the heck could possibly be the story of Pizza Tower?”
 
-![Pizza Face]({{ site.url }}{{ site.baseurl }}/assets/images/pizzatower-pizzaface.jpg){: .align-center}
+![Pizza Face]({{ site.url }}{{ site.baseurl }}/assets/images/blog/pizzatower-pizzaface.jpg){: .align-center}
 *Pizza Face, one of the main antagonists of the game.*
 {: .text-center .small}
 
@@ -51,7 +51,7 @@ The game thrusts the player into the shoes of Peppino Spaghetti, the anxiety ri
 
 Pizza Tower plays like a 2D platformer comparable to the Wario Land series. This shouldn’t be much of a surprise considering the Wario Land series is the direct inspiration which Pizza Tower draws from.
 
-![Peppino fighting Pepper Man]({{ site.url }}{{ site.baseurl }}/assets/images/pizzatower-gameplay_1-1.jpg){: .align-center}
+![Peppino fighting Pepper Man]({{ site.url }}{{ site.baseurl }}/assets/images/blog/pizzatower-gameplay_1-1.jpg){: .align-center}
 *Peppino fighting the first boss, Pepper Man.*
 {: .text-center .small}
 
@@ -64,7 +64,7 @@ The game presents its levels through each floor of the pizza tower. There are 5 
 
 Pizza Tower stands out from the rest of the genre not only because of its 90s cartoon-like art style, smooth character animation, and fantastic soundtrack. Its solid and engaging gameplay is what keeps me coming back for more.
 
-![One of the levels in Pizza Tower]({{ site.url }}{{ site.baseurl }}/assets/images/pizzatower-gameplay_1-2.jpg){: .align-center}
+![One of the levels in Pizza Tower]({{ site.url }}{{ site.baseurl }}/assets/images/blog/pizzatower-gameplay_1-2.jpg){: .align-center}
 *There are many enemies and obstacles to face in Pizza Tower.*
 {: .text-center .small}
 
@@ -72,7 +72,7 @@ Each level has the player navigate through a linear environment, fighting enemie
 
 However, what makes Pizza Tower so engaging is how each level complements Peppino’s diverse move set. Movement is an important element in this game as Peppino’s movements are tight and complex while being easy to understand. Peppino can perform a high speed ‘Mach run’ to break through metal boxes and barrel through enemies. He is also able to jump, super-jump, slide, redirect the direction of his mach run and much more. All of these movements combined turn Peppino into a devastating unstoppable force of nature.
 
-![Run to the beginning of the level in time!]({{ site.url }}{{ site.baseurl }}/assets/images/pizzatower-gameplay_1-3.jpg){: .align-center}
+![Run to the beginning of the level in time!]({{ site.url }}{{ site.baseurl }}/assets/images/blog/pizzatower-gameplay_1-3.jpg){: .align-center}
 *Players must make a mad dash to the end before time runs out.*
 {: .text-center .small}
 
@@ -80,7 +80,7 @@ What really sells the game is the replay value of each level. There are sub-obje
 
 P, standing for platinum, is the highest rank a player can achieve for a level and is definitely a fun challenge for those looking to 100% the game. All of these elements melt together into a palatable and fresh take on the 2D platforming genre.
 
-![S-Rank Victory Screen]({{ site.url }}{{ site.baseurl }}/assets/images/s-rank-pizzatower.jpg){: .align-center}
+![S-Rank Victory Screen]({{ site.url }}{{ site.baseurl }}/assets/images/blog/s-rank-pizzatower.jpg){: .align-center}
 *The highest score is S-Rank, besides platinum.*
 {: .text-center .small}
 

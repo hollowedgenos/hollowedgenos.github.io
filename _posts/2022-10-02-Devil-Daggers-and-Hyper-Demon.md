@@ -17,7 +17,7 @@ tags:
   - Indie-Games
   - Photosensitivity Warning
 header:
-  overlay_image: /assets/images/devildaggers-hyperdemon-overlay.jpg
+  overlay_image: /assets/images/blog/devildaggers-hyperdemon-overlay.jpg
   overlay_filter: 0.5
   caption: ""
 ---
@@ -34,7 +34,7 @@ header:
 There is such an extremely menacing aura around these two words. It’s a vague objective with many sinister implications. Death is imminent and it is not a question of how you will die, but when. Developed and published by Sorath, Devil Daggers and its sequel, Hyper Demon are the absolute embodiment of these words. There is no story, only you, a flat arena, and never-ending waves of demons biting at your heels. 
 
 {:. text-center}
-![Devil Daggers]({{ "/assets/images/devil-daggers.jpg" | relative_url }}){: width="48%"}![Hyper Demon]({{ "/assets/images/hyper-demon.jpg" | relative_url }}){: width="48%"}
+![Devil Daggers]({{ "/assets/images/blog/devil-daggers.jpg" | relative_url }}){: width="48%"}![Hyper Demon]({{ "/assets/images/blog/hyper-demon.jpg" | relative_url }}){: width="48%"}
 *Cover Art for Devil Daggers and Hyper Demon as seen on Steam.*
 {: .text-center .small}
 
@@ -49,7 +49,7 @@ The score, tied directly to your time alive, adds a ton of value to the experien
 # It All Started with A Dagger
 {: .text-center}
 
-![Devil Daggers Screenshot from Steam Page Part 1]({{ site.url }}{{ site.baseurl }}/assets/images/devil-daggers-screenshot_1-1.jpg){: .align-center}
+![Devil Daggers Screenshot from Steam Page Part 1]({{ site.url }}{{ site.baseurl }}/assets/images/blog/devil-daggers-screenshot_1-1.jpg){: .align-center}
 *A screenshot of Devil Daggers from its Steam page.*
 {: .text-center .small}
 
@@ -57,7 +57,7 @@ Devil Daggers is a fast-paced shooter which released on February 18, 2016. As m
 
 Demons you kill will drop gems which, after collecting a certain amount, will upgrade your dagger hand. These are the tools Devil Daggers gives you to survive and despite sounding bare, it’s a formula that works great and is absolutely addictive.
 
-![Devil Daggers Screenshot from Steam Page Part 2]({{ site.url }}{{ site.baseurl }}/assets/images/devil-daggers-screenshot_1-2.jpg){: .align-center}
+![Devil Daggers Screenshot from Steam Page Part 2]({{ site.url }}{{ site.baseurl }}/assets/images/blog/devil-daggers-screenshot_1-2.jpg){: .align-center}
 *Another screenshot of Devil Daggers from its Steam page.*<br>*Skulls are relentless in their pursuit, you must dispatch them quickly lest they catch up to you.*
 {: .text-center .small}
 
@@ -69,7 +69,7 @@ Demons you kill will drop gems which, after collecting a certain amount, will up
 Hyper Demon was released twelve days ago–as of publishing this blog–on September 19, 2022, with no fanfare or announcement prior. 
 It deviates from the visual style of Devil Daggers in the extreme sense. It’s a cacophony of pure colors, sights, and sounds.
 
-![Hyper Demon Screenshot from Steam Page Part 1]({{ site.url }}{{ site.baseurl }}/assets/images/hyper-demon-screenshot_1-1.jpg){: .align-center}
+![Hyper Demon Screenshot from Steam Page Part 1]({{ site.url }}{{ site.baseurl }}/assets/images/blog/hyper-demon-screenshot_1-1.jpg){: .align-center}
 *A screenshot of Hyper Demon from its Steam page.*
 {: .text-center .small}
 
@@ -77,7 +77,7 @@ If you are photosensitive, I do not recommend playing this game. However, if you
 
 Hyper Demon expands upon Devil Daggers not only from a visual standpoint, but gameplay as well. You’re given more movement options as well as more offensive options. The scoring system differs from the first game. At the start of a run, the score starts from ten and counts down. You must continue killing demons to raise your score, encouraging the player to be more aggressive than the first game.
 
-![Hyper Demon Screenshot from Steam Page Part 2]({{ site.url }}{{ site.baseurl }}/assets/images/hyper-demon-screenshot_1-2.jpg){: .align-center}
+![Hyper Demon Screenshot from Steam Page Part 2]({{ site.url }}{{ site.baseurl }}/assets/images/blog/hyper-demon-screenshot_1-2.jpg){: .align-center}
 *Screenshot from Hyper Demons' Steam page.*<br>*These screenshots are NOT supplementary for actually seeing how this games plays, seriously, go watch a video of it.*
 {: .text-center .small}
 
@@ -88,13 +88,13 @@ Hyper Demon expands upon Devil Daggers not only from a visual standpoint, but ga
 
 One thing I noticed with Devil Daggers’ gameplay was that the options for movement were very limited. You can only run, jump, and dagger-jump, but that’s really it. If I'm being chased by demons, I want to spice up my movement a bit. Another issue I have is that dagger-jump does not have much utility. The player isn’t incentivized to use it and you could play completely without it.
 
-![Devil Daggers Screenshot from Steam Page Part 3]({{ site.url }}{{ site.baseurl }}/assets/images/devil-daggers-screenshot_1-3.jpg){: .align-center}
+![Devil Daggers Screenshot from Steam Page Part 3]({{ site.url }}{{ site.baseurl }}/assets/images/blog/devil-daggers-screenshot_1-3.jpg){: .align-center}
 *Devil Daggers Screenshot from Steam page.*<br>*SPIDERS are enemies that will take your gems if you don't dispatch of them quickly.*
 {: .text-center .small}
 
 Hyper Demon addresses these issues through its expanded and intuitive movement system. Dagger-Jumps are extremely important to survival in Hyper Demon, and it shows.
 
-![Hyper Demon Screenshot from Steam Page Part 3]({{ site.url }}{{ site.baseurl }}/assets/images/hyper-demon-screenshot_1-3.jpg){: .align-center}
+![Hyper Demon Screenshot from Steam Page Part 3]({{ site.url }}{{ site.baseurl }}/assets/images/blog/hyper-demon-screenshot_1-3.jpg){: .align-center}
 *Hyper Demon Screenshot from Steam page.*<br>*These guys are named Scuttlebugs. They will charge you if you get close and after you stun them.*
 {: .text-center .small}
 

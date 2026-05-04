@@ -19,7 +19,7 @@ tags:
  - Photosensitivity Warning
  - Post Void
 header:
-  overlay_image: /assets/images/post-void-overlay.jpg
+  overlay_image: /assets/images/blog/post-void-overlay.jpg
   overlay_filter: 0.5
   caption: ""
 ---
@@ -36,13 +36,13 @@ Post Void is an enigmatic indie shooter that is an absolute overload for the sen
 # A State of Trance Overwhelms the Senses
 {: .text-center}
 
-![A player landing a well-placed headshot.]({{ site.url }}{{ site.baseurl }}/assets/images/post-void-gameplay_1-1.jpg){: .align-center}
+![A player landing a well-placed headshot.]({{ site.url }}{{ site.baseurl }}/assets/images/blog/post-void-gameplay_1-1.jpg){: .align-center}
 *Getting headshots is extremely satisfying in this game.*
 {: .text-center .small}
 
 Pardon me, however, any formal structure of writing from now on is going to be thrown out of this blog post’s metaphorical window. Post Void is a fast-paced shooter which takes artistic inspiration from the older “boomer shooter” era of games (I.e., Wolfenstein, DOOM). Post Void is a game that seems to defy any logical reasoning or explanation; it just is, it exists as an element of our current universe and embraces unadulterated chaos.
 
-![Sprinting through unrecognizable hallways.]({{ site.url }}{{ site.baseurl }}/assets/images/post-void-gameplay_1-2.jpg){: .align-center}
+![Sprinting through unrecognizable hallways.]({{ site.url }}{{ site.baseurl }}/assets/images/blog/post-void-gameplay_1-2.jpg){: .align-center}
 *Oversaturated madness painted on your screen.*
 {: .text-center .small}
 
@@ -53,7 +53,7 @@ Flashing lights pollute the screen upon launch, imagery a viewer may recognize o
 # Psychedelic, Surreal Gameplay
 {: .text-center}
 
-![The ending to a level, The Pool.]({{ site.url }}{{ site.baseurl }}/assets/images/post-void-gameplay_1-3.jpg){: .align-center}
+![The ending to a level, The Pool.]({{ site.url }}{{ site.baseurl }}/assets/images/blog/post-void-gameplay_1-3.jpg){: .align-center}
 *The Pool awaits you at the end of the carnage.*
 {: .text-center .small}
 
@@ -61,7 +61,7 @@ The gameplay is fairly simple in Post Void as you are able to walk, jump, slide 
 
 This is the transition point from one level to the next and the player can choose from one of three upgrades presented to them at the end of the level. Some upgrades allow for faster reloading of weapons and some give the player an entirely new weapon (which the player can only have one specific weapon in a run). As the player reaches new levels, the layout of the labyrinth will change, as well as diversifying the enemies that must be dealt with. Now this seems all standard for a very basic first-person shooter. What sets Post Void apart is how it incentivizes the player to keep moving and to keep killing enemies.
 
-![The upgrade screen.]({{ site.url }}{{ site.baseurl }}/assets/images/post-void-gameplay_1-4.jpg){: .align-center}
+![The upgrade screen.]({{ site.url }}{{ site.baseurl }}/assets/images/blog/post-void-gameplay_1-4.jpg){: .align-center}
 *The Pool allows you to upgrade yourself before beginning a new level.*
 {: .text-center .small}
 

@@ -47,15 +47,15 @@ feature_row:
     alt: ""
     title: "AEGIS AI Attack Logic"
     excerpt: "The AI attack logic designed and implemented for AEGIS, a submission for the Unlikely Collaborators 2026 game jam. "
-    url: "/portfolio//"
+    url: "/portfolio/AEGIS-AI-AttackLogic/"
     btn_label: "View"
     btn_class: "btn--primary"
 
   - image_path: 
     alt: ""
     title: "Well Well Wells: Level 1"
-    excerpt: "A series of scenes I designed and created in the Unity Engine comprising Level 1 for the group project, Well Well Wells."
-    url: "/portfolio//"
+    excerpt: "A series of scenes designed and created in the Unity Engine comprising Level 1 for the group project, Well Well Wells."
+    url: "/portfolio/WellWellWells_Level1/"
     btn_label: "View"
     btn_class: "btn--primary"
 
@@ -63,7 +63,7 @@ feature_row:
     alt: ""
     title: "3D Blender Animation"
     excerpt: "A 3D animated video I created to demonstrate my skills in Blender."
-    url: "/portfolio//"
+    url: "/portfolio/3D-Blender-Video/"
     btn_label: "View"
     btn_class: "btn--primary"
 

@@ -17,7 +17,7 @@ tags:
   - Movement-Shooter
   - ULTRAKILL
 header:
-  overlay_image: /assets/images/ultrakill-header.jpg
+  overlay_image: /assets/images/blog/ultrakill-header.jpg
   overlay_filter: 0.5
   caption: "Patala, Arsi. “Steam Store Image for ULTRAKILL.” Steam, 3 Sept. 2020, [https://store.steampowered.com/app/1229490/ULTRAKILL/.](https://store.steampowered.com/app/1229490/ULTRAKILL/) Accessed 15 Sept. 2022."
 ---
@@ -41,7 +41,7 @@ ULTRAKILL’s gameplay strives to challenge and through this challenge the playe
 
 The style meter goes up in real-time when the player is chaining weapon combinations together and avoiding damage through constant movement. Through this, the game organically reinforces a more aggressive playstyle. Believe me, you need to be aggressive in this game. Enemies will constantly chase and/or shoot at you and you have to be proactive with prioritizing targets, switching weapons, and utilizing the movement system to its fullest. This all may sound overwhelming, but ULTRAKILL makes learning these mechanics extremely rewarding, which is an accomplishment in itself in the context of game design.
 
-![ULTRAKILL Level 0-1]({{ site.url }}{{ site.baseurl }}/assets/images/ultrakill-windows-stylish-combos.png){: .align-center}
+![ULTRAKILL Level 0-1]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ultrakill-windows-stylish-combos.png){: .align-center}
 *Sciere. “Stylish Combos Are Rewarded. Collect Blood to Replenish Health (Early Access Version).” Mobygames.com, 4 Sept. 2020, [https://www.mobygames.com/game/windows/ultrakill/screenshots/gameShotId,1021612/.](https://www.mobygames.com/game/windows/ultrakill/screenshots/gameShotId,1021612/) Accessed 15 Sept. 2022.*
 {: .text-center .small}
 
@@ -55,7 +55,7 @@ For context, ULTRAKILL takes place in a future where all humans are extinct, and
 
 This is where your character comes in. You play as a robot named ‘V1’—whose motivations are unknown—who is venturing through the many layers of Hell, slaying robots and demons that stand in its way. The game is currently split into two acts, the first act follows V1 as they fight through Hells layers of Limbo, Lust, and Gluttony. Act two was released as of August of this year and has V1 fiercely blasting their way through the layers of Greed, Wrath, and Heresy. Because this game is still in early access on Steam, Act three is not yet released as it is still in development.
 
-![ULTRAKILL Level 1-1]({{ site.url }}{{ site.baseurl }}/assets/images/ultrakill_1-1.png){: .align-center}
+![ULTRAKILL Level 1-1]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ultrakill_1-1.png){: .align-center}
 *Patala, Arsi. “Screenshot from ULTRAKILL's Steam Page.” Steam, 3 Sept. 2020, [https://store.steampowered.com/app/1229490/ULTRAKILL/.](https://store.steampowered.com/app/1229490/ULTRAKILL/) Accessed 15 Sept. 2022.*
 {: .text-center .small}
 
@@ -66,7 +66,7 @@ This is where your character comes in. You play as a robot named ‘V1’—whos
 
 ULTRAKILL does a lot right, it does have a few issues however. There are a few arenas in this game that feel very bare bones. Specifically, level 5-2, this level has V1 walking on rickety old docks in a never-ending sea of damned souls. However, the first half of this level feels like there could be more added to it. You are extremely limited in where you can move when walking on the docks as you usually are moving forward. Previous levels allowed for a lot more room to move and playing this level felt underwhelming. I think it is best to keep the player unrestricted in their movement through the level and keeping things from looking too linear.
 
-![ULTRAKILL Level 5-2]({{ site.url }}{{ site.baseurl }}/assets/images/ultrakill_5-2.png){: .align-center}
+![ULTRAKILL Level 5-2]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ultrakill_5-2.png){: .align-center}
 *"Level 5-2 of ULTRAKILL." Author's Screenshot. 15 September 2022.*
 {: .text-center .small}
 

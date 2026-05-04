@@ -16,7 +16,7 @@ tags:
  - Puzzle
  - Splice
 header:
-  overlay_image: /assets/images/splice-titlescreen.jpg
+  overlay_image: /assets/images/blog/splice-titlescreen.jpg
   overlay_filter: 0.5
   caption: "Splice Title Screen"
 ---
@@ -44,7 +44,7 @@ Until now.
 # The REAL First Strand-Like Game
 {: .text-center}
 
-![A strand sequence puzzle in Splice.]({{ site.url }}{{ site.baseurl }}/assets/images/splice-gameplay_1-1.jpg){: .align-center}
+![A strand sequence puzzle in Splice.]({{ site.url }}{{ site.baseurl }}/assets/images/blog/splice-gameplay_1-1.jpg){: .align-center}
 *The player usually starts out with a sequence like this, which they must solve.*
 {: .text-center .small}
 
@@ -56,7 +56,7 @@ This sounds simple and it is, but there are elements that keep the game from bei
 
 However, the number of times the player can move these microbes is limited, this number of moves varies for each puzzle. A puzzle can be reset if the player goes over the set number of moves. The player also has the option to use their mouse wheel as a fast-forward and rewind function. Mistakes can be rewound, and a different course of action can be made. It really adds to the casual experience which I’m all for.
 
-![A more complex strand sequence puzzle.]({{ site.url }}{{ site.baseurl }}/assets/images/splice-gameplay_1-2.jpg){: .align-center}
+![A more complex strand sequence puzzle.]({{ site.url }}{{ site.baseurl }}/assets/images/blog/splice-gameplay_1-2.jpg){: .align-center}
 *Players will be challenged with more complex sequences as they progress.*
 {: .text-center .small}
 

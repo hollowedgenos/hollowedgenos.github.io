@@ -15,7 +15,7 @@ tags:
   - Video Games
   - Source Engine
 header:
-  overlay_image: /assets/images/source-engine-overlay.jpg
+  overlay_image: /assets/images/blog/source-engine-overlay.jpg
   overlay_filter: 0.5
   caption: ""
 ---
@@ -27,7 +27,7 @@ header:
 
 Developed by Valve Corporation and released in 2004 with Half Life 2, the Source Engine was nothing short of revolutionary. The Source Engine was the successor to the Gold Source Engine, a heavily modified version of the Quake Engine. What set it apart from its predecessor was it was one of the first commercial game engines to utilize real-time physics simulation, allowing for a more immersive gameplay experience. The facial animations on the characters were unlike anything seen before. Most of the animations for NPCs before Half Life 2 were uncanny and rather robotic. The Source Engine changed the way characters expressed emotion through its life-like facial animation system. Not to mention the graphical fidelity at its time was absolutely stunning. So much so that unlike its predecessor, Half Life 1, Half Life 2’s graphics have aged quite well for a nearly 20-year-old game. Indeed, Valve and the Source Engine propelled the game industry forward to new heights.
 
-![Source Engine Logo]({{ site.url }}{{ site.baseurl }}/assets/images/source-engine-logo.png){: .align-center}
+![Source Engine Logo]({{ site.url }}{{ site.baseurl }}/assets/images/blog/source-engine-logo.png){: .align-center}
 *The Source Engine Logo.*
 {: .text-center .small}
 
@@ -36,7 +36,7 @@ Developed by Valve Corporation and released in 2004 with Half Life 2, the Source
 # The Source Game Repertoire
 {: .text-center}
 
-![The Orange Box]({{ site.url }}{{ site.baseurl }}/assets/images/the-orange-box.jpg){: .align-center}
+![The Orange Box]({{ site.url }}{{ site.baseurl }}/assets/images/blog/the-orange-box.jpg){: .align-center}
 *Box Art of The Orange Box.*
 {: .text-center .small}
 
@@ -48,9 +48,9 @@ Many games have been developed on the Source Engine. Besides its breakout hit, H
 {: .text-center}
 
 <figure class="third" markdown="1">
-![Vampire The Masquerade: Bloodlines]({{ "/assets/images/vampire-themasquerade-bloodlines.jpg" | relative_url }}){: style="width: 36%; height: 100%; object-fit: cover;"}
-![Garry's Mod]({{ "/assets/images/gmod.jpg" | relative_url }}){: style="width: 31%; height: 100%; object-fit: cover;"}
-![The Stanley Parable: Ultra Deluxe]({{ "/assets/images/stanleyparable-ultradeluxe.jpg" | relative_url }}){: style="width: 31%; height: 100%px; object-fit: cover;"}
+![Vampire The Masquerade: Bloodlines]({{ "/assets/images/blog/vampire-themasquerade-bloodlines.jpg" | relative_url }}){: style="width: 36%; height: 100%; object-fit: cover;"}
+![Garry's Mod]({{ "/assets/images/blog/gmod.jpg" | relative_url }}){: style="width: 31%; height: 100%; object-fit: cover;"}
+![The Stanley Parable: Ultra Deluxe]({{ "/assets/images/blog/stanleyparable-ultradeluxe.jpg" | relative_url }}){: style="width: 31%; height: 100%px; object-fit: cover;"}
 </figure>
 
 Valve weren’t the only people to make games from the Source Engine. After Valve released the Source Development Kit (SDK) free of charge, other independent developers and companies made their own titles. The same year as Half Life 2’s release, Troika Games released cult classic RPG, Vampire The Masquerade – Bloodlines. In 2006, Independent Developer Garry Newman, started development of Garry’s Mod, a sandbox game that became a defining title in the Source Engine modding community. Speaking of defining titles, The Stanley Parable, originally a source mod released in 2011, became a full-fledged game in 2013. It garnered so much success that more content was added to it culminating in the 2022 release of The Stanley Parable: Ultra Deluxe.

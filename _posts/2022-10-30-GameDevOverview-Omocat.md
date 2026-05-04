@@ -33,7 +33,7 @@ April 21st, 2014, a Kickstarter campaign launches for an indie role-playing game
 
 But that’s not the end of the story, on May 5th the game reached its second stretch goal of $50,000 (OMOCAT, 2014a; 2014b; 2014c). The demolishing of stretch goals became a trend for the entirety of Omori’s campaign on Kickstarter. As on May 13th, the game reached $65,000 dollars (OMOCAT, 2014d). The numbers only kept pumping up exponentially from there. By June 5th, the last day of the campaign, 5,910 backers funded Omori with a whopping total of $203,300 (OMOCAT, 2014e).
 
-![Screenshot from Omori Kickstarter Page]({{ site.url }}{{ site.baseurl }}/assets/images/omori-kickstarter-page.jpg){: .align-center}
+![Screenshot from Omori Kickstarter Page]({{ site.url }}{{ site.baseurl }}/assets/images/blog/omori-kickstarter-page.jpg){: .align-center}
 *Kickstarter page for Omori.*
 {: .text-center .small}
 
@@ -42,7 +42,7 @@ Originally, Omori was slated to be released May 2015. It would take six years
 Now I could ramble on and on about the extenuating circumstances that contributed to Omori’s long development cycle. Heck, I could babble about how Omori is one of my favorite games of all time, how rich it is from a gameplay and narrative perspective. The juxtaposition between cutesy art style versus its dark themes and presentation of psychological horror. How Omori emotionally wrecks you, refusing to leave your mind long after finishing it. However, that is not what I am here to talk about. What I do want to talk about is the game’s creator, who goes by the pseudonym Omocat.
 
 {:. text-center}
-![Omori's Title screen]({{ "/assets/images/omori-titlescreen.png" | relative_url }}){: width="48%"}![Omocat's Logo]({{ "/assets/images/omocat-logo.png" | relative_url }}){: width="48%"}
+![Omori's Title screen]({{ "/assets/images/blog/omori-titlescreen.png" | relative_url }}){: width="48%"}![Omocat's Logo]({{ "/assets/images/blog/omocat-logo.png" | relative_url }}){: width="48%"}
 *Official cover art for Omori and Omocat's Logo*
 {: .text-center .small}
 
@@ -55,7 +55,7 @@ Omocat is an artist that originally got their start posting illustrations and we
 
 In 2014, Omocat started their own company, OMOCAT LLC (Bio — omocat, n.d.). This is also the same year the Omori Kickstarter campaign began, which as mentioned before, was a huge success. During Omori’s development, Omocat took many roles. This included illustrator, story writer, programmer, game designer and game director (About omocat, n.d.; OMOCAT video game credits and Biography, n.d.). Not to mention OMOCAT LLC. is a company that sells art and clothing. Which they were managing all while developing Omori. Being in a small indie company, that is a lot to take under your belt. Which is why I have so much respect and admiration for them.
 
-![Screenshot of the Omocat Website]({{ site.url }}{{ site.baseurl }}/assets/images/omocat-website.jpg){: .align-center}
+![Screenshot of the Omocat Website]({{ site.url }}{{ site.baseurl }}/assets/images/blog/omocat-website.jpg){: .align-center}
 *Omocat's Website*
 {: .text-center .small}
 
