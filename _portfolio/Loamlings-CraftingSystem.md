@@ -12,3 +12,17 @@ project_role: "Responsible for the crafting system by implementing resource gath
 project_tools: "None"
 project_date: "2024"
 ---
+
+## Specifics
+
+## External Assets & Libraries
+
+---
+
+### Resources
+
+---
+
+### Gallery
+
+{% include gallery %}

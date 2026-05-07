@@ -2,6 +2,25 @@
 title: "Multiplayer Inventory System"
 excerpt: "A server authoritative inventory system made in Unity."
 
+gallery:
+  - url: /assets/images/portfolio-images/gallery/inventory-system/Inventory1.png
+    image_path: /assets/images/portfolio-images/gallery/inventory-system/Inventory1.png
+    alt: "Code for Inventory System (Part 1)"
+    title: "Inventory System code snippet (Part 1)"
+  - url: /assets/images/portfolio-images/gallery/inventory-system/Inventory2.png
+    image_path: /assets/images/portfolio-images/gallery/inventory-system/Inventory2.png
+    alt: "Code for Inventory System (Part 2)"
+    title: "Inventory System code snippet (Part 2)"
+  - url: /assets/images/portfolio-images/gallery/inventory-system/InteractableDetector1.png
+    image_path: /assets/images/portfolio-images/gallery/inventory-system/InteractableDetector1.png
+    alt: "Code for Interactable Detector (Part 1)"
+    title: "Interactable Detector code snippet (Part 1)"
+  - url: /assets/images/portfolio-images/gallery/inventory-system/InteractableDetector2.png
+    image_path: /assets/images/portfolio-images/gallery/inventory-system/InteractableDetector2.png
+    alt: "Code for Interactable Detector (Part 2)"
+    title: "Interactable Detector code snippet (Part 2)"
+    
+
 header:
   overlay_image: 
   teaser: /assets/images/portfolio-images/Inventory-System.png
@@ -12,6 +31,7 @@ project_role: "Responsible for the design and implementation of the inventory sy
 project_tools: "Photon Fusion 2"
 project_date: "2026"
 ---
+
 ## Specifics
 Enables synchronized item management across networked players and enhancing cooperative gameplay dynamics.
 
@@ -27,3 +47,9 @@ Inventory system keeps track of different and multiple of the same items.
 ### Resources
 - [Multiplayer Inventory Github](https://github.com/hollowedgenos/Multiplayer-Inventory-System)
 - [Soulsync Project](https://rjp5546.itch.io/soulsync)
+
+---
+
+### Gallery
+
+{% include gallery %}

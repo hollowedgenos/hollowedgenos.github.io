@@ -12,3 +12,17 @@ project_role: ""
 project_tools: "None"
 project_date: "2026"
 ---
+
+## Specifics
+
+## External Assets & Libraries
+
+---
+
+### Resources
+
+---
+
+### Gallery
+
+{% include gallery %}

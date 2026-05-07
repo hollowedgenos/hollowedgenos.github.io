@@ -2,6 +2,24 @@
 title: "Multiplayer Character Abilities"
 excerpt: "Four core character abilities for a Multiplayer Unity game project."
 
+gallery:
+  - url: /assets/images/portfolio-images/gallery/character-abilities/HammerCharge.png
+    image_path: /assets/images/portfolio-images/gallery/character-abilities/HammerCharge.png
+    alt: "Code for ASTR-1D's Hammer Charge ability."
+    title: "Hammer Charge Ability code snippet"
+  - url: /assets/images/portfolio-images/gallery/character-abilities/TornadoSpin.png
+    image_path: /assets/images/portfolio-images/gallery/character-abilities/TornadoSpin.png
+    alt: "Code for ASTR-1D's Tornado Spin ability."
+    title: "Tornado Spin Ability code snippet"
+  - url: /assets/images/portfolio-images/gallery/character-abilities/HammerRide.png
+    image_path: /assets/images/portfolio-images/gallery/character-abilities/HammerRide.png
+    alt: "Code for ASTR-1D's Hammer Ride ability."
+    title: "Hammer Ride Ability code snippet"
+  - url: /assets/images/portfolio-images/gallery/character-abilities/CompanyMandatedDanceSession.png
+    image_path: /assets/images/portfolio-images/gallery/character-abilities/CompanyMandatedDanceSession.png
+    alt: "Code for ASTR-1D's Company Mandated Dance Session ability."
+    title: "Company Mandated Dance Session Ability code snippet"
+
 header:
   overlay_image: 
   teaser: /assets/images/portfolio-images/HammerRide-Ability.png
@@ -11,14 +29,8 @@ project_brief: "The four core character abilities for the player character: ASTR
 project_role: "Responsible for the implementation of the four character abilities, improved player engagement and combat interactions."
 project_tools: "Photon Fusion 2"
 project_date: "2025"
-
-gallery:
-  - url: /assets/images/portfolio-items/gallery/character-abilities/HammerRide.png
-    image_path: /assets/images/portfolio-items/gallery/character-abilities/HammerRide.png
-    alt: "Code for ASTR-1D's Hammer Ride ability."
-    title: "Hammer Ride Ability"
-
 ---
+
 ## Specifics
 One of the player characters, ASTR-1D, came with four abilities:
 - Hammer Charge
@@ -42,3 +54,9 @@ One of the player characters, ASTR-1D, came with four abilities:
 ### Resources
 - [Character Abilities Github](https://github.com/hollowedgenos/Character-Abilities-ASTR1D)
 - [Soulsync Project](https://rjp5546.itch.io/soulsync)
+
+---
+
+### Gallery
+
+{% include gallery %}
