@@ -8,21 +8,17 @@ header:
   overlay_filter: 0.5
 
 project_brief: ""
-project_role: ""
-project_tools: "None"
+project_role: "Responsible as the Animator, 3D Modeler, and Texture Artist."
+project_tools: "Blender"
 project_date: "2024"
 ---
 
 ## Specifics
 
 ## External Assets & Libraries
+- None
 
 ---
 
 ### Resources
-
----
-
-### Gallery
-
-{% include gallery %}
+- [Link to Rendered Video](https://www.youtube.com/watch?v=8Y3C5oDdbjo)

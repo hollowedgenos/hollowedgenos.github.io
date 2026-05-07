@@ -2,7 +2,7 @@
 # ⚙️ Site Settings
 # -----------------------------------------------------------------------------
 
-title: Connor Touchet's Portfolio
+title: HollowedGenos' Portfolio
 email: ctouc@protonmail.com
 description: >-
   Hello! You have found the portfolio of an aspiring game developer. Feel free to peruse my works!
@@ -33,12 +33,12 @@ plugins:
 # -----------------------------------------------------------------------------
 
 minimal_mistakes_skin: "dark"
-site_author: "Connor Touchet"
+site_author: "HollowedGenos"
 paginate: 5
 words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
-logo: 
+logo:
 masthead_title: "Projects"
 
 # Defaults for Posts and Pages
@@ -101,7 +101,7 @@ collections:
 # -----------------------------------------------------------------------------
 
 author:
-  name   : "Connor Touchet"
+  name   : "HollowedGenos"
   avatar : "/assets/images/critter-1-edited.png"
   bio    : "An aspiring game developer who is pursuing a career in game systems programming."
   links:
