@@ -22,7 +22,3 @@ project_date: "2024"
 ### Resources
 
 ---
-
-### Gallery
-
-{% include gallery %}

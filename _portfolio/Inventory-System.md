@@ -20,7 +20,6 @@ gallery:
     alt: "Code for Interactable Detector (Part 2)"
     title: "Interactable Detector code snippet (Part 2)"
     
-
 header:
   overlay_image: 
   teaser: /assets/images/portfolio-images/Inventory-System.png
