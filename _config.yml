@@ -33,13 +33,13 @@ plugins:
 # -----------------------------------------------------------------------------
 
 minimal_mistakes_skin: "dark"
-site_author: "HollowedGenos"
+site_author: "Connor Touchet"
 paginate: 5
 words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo:
-masthead_title: "Projects"
+masthead_title: "Connor Touchet's Projects"
 
 # Defaults for Posts and Pages
 defaults:
@@ -50,7 +50,7 @@ defaults:
       layout: single
       header:
         overlay_color: "#003595"
-        overlay_image:    
+        overlay_image: /assets/images/HollowedGenos-BrandingBackground.png
       author_profile: true # Author profile (left sidebar) is visible
       toc: true             # Table of Contents (right sidebar) is visible
       toc_label: "Contents" # Optional: Custom title for the TOC
@@ -78,7 +78,7 @@ defaults:
       layout: portfolio-item
       header:
         overlay_color: "#003595"
-        overlay_image:
+        overlay_image: /assets/images/HollowedGenos-BrandingBackground.png
       author_profile: true # Author profile (left sidebar) is visible
       sidebar: 
         nav: "portfolio_sidebar"  # Custom Portfolio (left sidebar) is visible
@@ -101,7 +101,7 @@ collections:
 # -----------------------------------------------------------------------------
 
 author:
-  name   : "HollowedGenos"
+  name   : "Connor Touchet (HollowedGenos)"
   avatar : "/assets/images/critter-1-edited.png"
   bio    : "An aspiring game developer who is pursuing a career in game systems programming."
   links:
