@@ -77,7 +77,7 @@ defaults:
     values:
       layout: portfolio-item
       header:
-        overlay_color: "#003595"
+        overlay_color: "#e97132"
         overlay_image:
       author_profile: true # Author profile (left sidebar) is visible
       sidebar: 
@@ -107,7 +107,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/connor-touchet-439b323aa/"
+      url: "https://www.linkedin.com/in/hollowedgenos"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hollowedgenos"  
