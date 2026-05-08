@@ -14,7 +14,10 @@ project_date: "2024"
 ---
 
 ## Specifics
+One of the main elements I wanted to focus on for the animation was the environment itself.
+I wanted to capture a dream-like surrealness which would lend itself to the short story.
 
+Some of the objects incorporate this dream-like feeling, in their textures; such as the tree stump, mushroom, and flower object.
 
 ## External Assets & Libraries
 - None
@@ -22,4 +25,5 @@ project_date: "2024"
 ---
 
 ### Resources
+- [Animation Project Artstation](https://www.artstation.com/hollowedgenos/albums/15005737)
 - [Link to Rendered Video](https://www.youtube.com/watch?v=8Y3C5oDdbjo)
