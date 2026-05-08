@@ -3,6 +3,9 @@ layout: single
 title: "Developer Statement"
 permalink: /about/
 author_profile: true
+header:
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/HollowedGenos-BrandingBackground.png
 ---
 
 <span style="font-family: 'Calibri Light', serif;">My name is Connor Touchet, also known as HollowedGenos! I create game systems and aim to become a game systems programmer who pushes the envelope for what game systems can do for players. As a game designer, novel, fresh, and practical ideas are what motivate me. I gravitate toward mechanics and systems which actively engage and/or challenge the player. Being able to convey compelling gameplay and storytelling are why I create games. I want to inspire others in the industry to challenge themselves to make more games that dare to stand out.</span>

@@ -64,7 +64,7 @@ defaults:
       layout: single
       header:
         overlay_color: "#003595"
-        overlay_image: 
+        overlay_image: /assets/images/HollowedGenos-BrandingBackground.png
       author_profile: true # Author profile (left sidebar) is visible
       toc: true             # Table of Contents (right sidebar) is visible
       toc_label: "Contents" # Optional: Custom title for the TOC
