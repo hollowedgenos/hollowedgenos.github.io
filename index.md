@@ -35,14 +35,6 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/portfolio-images/3DModels-Loamlings-collage.jpg
-    alt: "Collage of all 3D Models I created for Loamlings."
-    title: "Loamlings 3D Models"
-    excerpt: "3D models created in Blender for the Loamlings group project."
-    url: "/portfolio/Loamlings-3DModels/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/portfolio-images/AEGIS-COMP-HitAttack.png
     alt: "Screenshot of the graph editor for the melee attack logic."
     title: "AEGIS AI Attack Logic"
@@ -50,24 +42,6 @@ feature_row:
     url: "/portfolio/AEGIS-AI-AttackLogic/"
     btn_label: "View"
     btn_class: "btn--primary"
-
-  - image_path: /assets/images/portfolio-images/WellWellWells-Level1-collage.jpg
-    alt: "Collage of each scene created for Level 1 of the Well Well Wells project."
-    title: "Well Well Wells: Level 1"
-    excerpt: "A series of scenes designed and created in the Unity Engine comprising Level 1 for the group project, Well Well Wells."
-    url: "/portfolio/WellWellWells_Level1/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/portfolio-images/3DVideo-Project-Screenshot.png
-    alt: "Screenshot of the video project open in Blender."
-    title: "3D Blender Animation"
-    excerpt: "A 3D animated video I created to demonstrate my skills in Blender."
-    url: "/portfolio/3D-Blender-Video/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-
-
 
 ---
 
